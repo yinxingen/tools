@@ -1,0 +1,10 @@
+.clear {
+    &::after {
+        content: '';
+        height: 0;
+        display: block;
+        visibility: hidden;
+        overflow: hidden;
+        clear: both;
+    }
+}
