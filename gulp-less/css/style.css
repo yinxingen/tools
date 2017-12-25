@@ -1,0 +1,12 @@
+body {
+  background: #f938ab;
+}
+div {
+  height: 100px;
+  background: #eee;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background: #5f2eaf;
+}
